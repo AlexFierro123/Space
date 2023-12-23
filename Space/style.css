@@ -1,0 +1,14 @@
+.welcome{
+    background: linear-gradient(black,red,purple);
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
